@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "name": "Mutton Burger",
+      "imgurl": 6,
+      "code": "#9b59b6"
+    },
+    {
+      "id": 3,
+      "name": "Big Burger",
+      "imgurl": 6,
+      "code": "#3498db"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Burger",
+      "imgurl": 5,
+      "code": "#2ecc71"
+    }
+  ]
+}
